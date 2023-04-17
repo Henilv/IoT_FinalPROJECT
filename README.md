@@ -14,5 +14,5 @@ With the dramatic growth of computer networks usage and the huge increase in the
 
 The process of modeling means training a machine learning algorithm to predict the labels from the features, tuning it for the business need, and validating it on holdout data. The output from modeling is a trained model that can be used for inference, making predictions on new data points. Various models are trained and evaluated on the dataset.
 
-Optimization techniques are used to improve accuracy.
+Optimization techniques are used to improve accuracy and converge on global minima over local minima, futurescope can include use of momentum etc. as underlying optimization to converge in fewer epochs.
 
